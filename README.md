@@ -1,5 +1,7 @@
 # kube-ps1: Kubernetes prompt for bash and zsh
 
+![kube-ps](https://github.com/alperen-selcuk/kube-ps1/assets/78741582/5259a4e7-5b7e-47a4-b232-1d25d1a4e956)
+
 A script that lets you add the current Kubernetes context and namespace
 configured on `kubectl` to your Bash/Zsh prompt strings (i.e. the `$PS1`).
 
